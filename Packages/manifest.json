@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "com.unity.render-pipelines.universal": "17.2.0"
+    "com.unity.render-pipelines.universal": "17.2.0",
+    "com.unity.visualeffectgraph": "17.2.0"
   },
   "scopedRegistries": [
     {
