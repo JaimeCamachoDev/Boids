@@ -16,11 +16,15 @@ _**Proyecto en Unity que implementa el algoritmo de Boids para simulación de co
 
 ## Contenido
 
-* **VFX Graph:** `Boids_Birds_Fake`, `Boids_Birds_Fake_SevenWonders`, `Boids_Fish_Fake`, `Flocking Fish`, `Flocking Rattail`, `Flocking Shark`
-* **Shader Graph:** `Vertex Move Bird`, `Vertex Move Bird_SevenWonders`, `Vertex Move Fish`, `Vertex Move Fish_Mesh`, `Vertex Move Fish_Plane`
-* **Scripts:** `Flocking`, `FlockingCmp`, `FlockingEditor`, `RandomMoveInSquare`, `RandomPointJaime`, `SharkPoint`, `TargetFish`
-* **Prefabs:** `Boids Birds`, `Boids Fish`, `Flocking Fish`, `Flocking Shark`, `Gaviotas Particulas`, `Gaviotas Particulas 1`, `Gazas Particulas`, `Peces Particulas`, `RattailParticulas`, `RattailPath`
-* **Escenas:** `Assets/3-Scenes/Main.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Fish** | 3 | 1 | — | 6 | 6 | 6 |
+| **Seagull** | — | — | — | — | 3 | — |
+| **Voids** | 3 | 4 | — | 1 | 2 | 3 |
+
+**Escenas de demostración:** `Assets/3-Scenes/Main.unity`
 
 ## Uso
 
