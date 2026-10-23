@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.jaimecamachodev.unitymultitool": "1.2.9",
+    "com.jaimecamachodev.unitymultitool": "1.3.0",
     "com.unity.editorcoroutines": "1.0.1",
     "com.unity.formats.alembic": "2.4.4",
     "com.unity.render-pipelines.universal": "17.2.0",
